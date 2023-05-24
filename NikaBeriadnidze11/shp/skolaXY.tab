@@ -1,0 +1,11 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 4
+    id Decimal (10,0) ;
+    name Char (10) ;
+    xcoord Float ;
+    ycoord Float ;
